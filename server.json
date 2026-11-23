@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.mebwaycompany/mebway-ai-space",
+  "name": "io.github.MebwayCompany/mebway-ai-space",
   "title": "Mebway AI Space",
   "description": "Design interiors, work on furniture concepts, and review Mebway project presentations.",
   "repository": {
