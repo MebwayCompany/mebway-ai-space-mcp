@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mebwaycompany/mebway-ai-space",
+  "title": "Mebway AI Space",
+  "description": "Design interiors, work on furniture concepts, and review Mebway project presentations.",
+  "repository": {
+    "url": "https://github.com/MebwayCompany/mebway-ai-space-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://mcp.mebway.ai/",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.mebway.ai/v2/mcp"
+    }
+  ]
+}

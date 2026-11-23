@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "id": "example-project",
+    "name": "Example studio",
+    "url": "",
+    "rooms": [
+      {
+        "id": "example-room",
+        "name": "Work room",
+        "width_cm": 500,
+        "depth_cm": 400,
+        "furniture": [
+          {"id": "example-desk", "name": "Desk concept", "sku": "EXAMPLE-DESK", "x_cm": 70, "y_cm": 80, "rotation_deg": 0,
+           "width_cm": 140, "depth_cm": 70, "height_cm": 75, "finishes": [{"option": "Top", "decor": "Natural oak (synthetic colour)", "color_hex": "#B18A61", "color_provenance": "estimated"}]},
+          {"id": "example-cabinet", "name": "Storage concept", "sku": "EXAMPLE-STORAGE", "x_cm": 330, "y_cm": 80, "rotation_deg": 90,
+           "width_cm": 100, "depth_cm": 45, "height_cm": 140, "finishes": [{"option": "Front", "decor": "Colour to be selected", "color_hex": null, "color_provenance": null}]}
+        ]
+      }
+    ]
+  },
+  "quotation": {"status": "indicative", "currency": "PLN", "total": null,
+                "disclaimer": "Synthetic example. Price, feasibility, dimensions and finishes require Mebway review.", "items": []},
+  "manufacturing_approved": false
+}

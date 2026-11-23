@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mebway": {
+      "type": "http",
+      "url": "https://mcp.mebway.ai/v2/mcp"
+    }
+  }
+}
